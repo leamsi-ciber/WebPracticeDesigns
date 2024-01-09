@@ -1,0 +1,126 @@
+@import url('../fonts/Tocco/stylesheet.css');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Tocco', Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.header {
+    background: #91192b;
+    background-image: url('../img/background.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top right;
+    color: #fff;
+}
+
+.header-head {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2%;
+}
+
+.header-head .brand svg {
+    width: 22px;
+}
+
+.header-head .brand {
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
+    padding-left: 3%;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.header-head .brand a {
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.header-head .nav {
+    display: flex;
+    gap: 2.5rem;
+    align-items: center;
+    padding-left: 3%;
+    flex-grow: 4;
+}
+
+.header-head .nav a {
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.header-head .button {
+    flex-grow: 1;
+    align-self: center;
+}
+
+.header-head .button a {
+    color: #848383;
+    font-size: 14px;
+    font-weight: 300;
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 4px 8px;
+}
+
+.header-content {
+    padding-top: 4%;
+    padding-left: 3%;
+}
+
+.header-content h2 {
+    font-size: 6.7rem;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.header-content span {
+    display: block;
+    padding-top: 3%;
+    font-size: 2rem;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+
+.header-content p {
+    padding-top: 3%;
+    font-size: 1rem;
+    font-weight: 200;
+    width: 45%;
+    text-transform: capitalize;
+}
+
+.header-foot {
+    padding-top: 4%;
+    padding-left: 3%;
+    padding-bottom: 4%;
+    display: flex;
+    gap: 8rem;
+}
+
+.header-foot_item span:first-child {
+    border-top: 1px solid #fff;
+    padding-top: 0.7rem;
+    font-size: 2rem;
+    display: block;
+    font-weight: 600;
+}
+
+.header-foot_item span {
+    display: block;
+    padding-top: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 200;
+}

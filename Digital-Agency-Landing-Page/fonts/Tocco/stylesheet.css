@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Tocco';
+    src: url('Tocco-Thin.eot');
+    src: local('Tocco Thin'), local('Tocco-Thin'),
+        url('Tocco-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Tocco-Thin.woff2') format('woff2'),
+        url('Tocco-Thin.woff') format('woff'),
+        url('Tocco-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tocco Semi';
+    src: url('Tocco-SemiBold.eot');
+    src: local('Tocco Semi Bold'), local('Tocco-SemiBold'),
+        url('Tocco-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Tocco-SemiBold.woff2') format('woff2'),
+        url('Tocco-SemiBold.woff') format('woff'),
+        url('Tocco-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tocco';
+    src: url('Tocco-Black.eot');
+    src: local('Tocco Black'), local('Tocco-Black'),
+        url('Tocco-Black.eot?#iefix') format('embedded-opentype'),
+        url('Tocco-Black.woff2') format('woff2'),
+        url('Tocco-Black.woff') format('woff'),
+        url('Tocco-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tocco';
+    src: url('Tocco-Light.eot');
+    src: local('Tocco Light'), local('Tocco-Light'),
+        url('Tocco-Light.eot?#iefix') format('embedded-opentype'),
+        url('Tocco-Light.woff2') format('woff2'),
+        url('Tocco-Light.woff') format('woff'),
+        url('Tocco-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tocco';
+    src: url('Tocco-Bold.eot');
+    src: local('Tocco Bold'), local('Tocco-Bold'),
+        url('Tocco-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Tocco-Bold.woff2') format('woff2'),
+        url('Tocco-Bold.woff') format('woff'),
+        url('Tocco-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tocco';
+    src: url('Tocco-Regular.eot');
+    src: local('Tocco'), local('Tocco-Regular'),
+        url('Tocco-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Tocco-Regular.woff2') format('woff2'),
+        url('Tocco-Regular.woff') format('woff'),
+        url('Tocco-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tocco Ultra';
+    src: url('Tocco-UltraLight.eot');
+    src: local('Tocco Ultra Light'), local('Tocco-UltraLight'),
+        url('Tocco-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('Tocco-UltraLight.woff2') format('woff2'),
+        url('Tocco-UltraLight.woff') format('woff'),
+        url('Tocco-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tocco Variable';
+    src: url('ToccoVariable.eot');
+    src: local('Tocco Variable'), local('ToccoVariable'),
+        url('ToccoVariable.eot?#iefix') format('embedded-opentype'),
+        url('ToccoVariable.woff2') format('woff2'),
+        url('ToccoVariable.woff') format('woff'),
+        url('ToccoVariable.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tocco Ultra';
+    src: url('Tocco-UltraBold.eot');
+    src: local('Tocco Ultra Bold'), local('Tocco-UltraBold'),
+        url('Tocco-UltraBold.eot?#iefix') format('embedded-opentype'),
+        url('Tocco-UltraBold.woff2') format('woff2'),
+        url('Tocco-UltraBold.woff') format('woff'),
+        url('Tocco-UltraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
